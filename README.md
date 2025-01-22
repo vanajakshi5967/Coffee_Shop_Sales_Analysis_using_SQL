@@ -45,3 +45,5 @@ The analysis majorly focuses on how Maven Roasters sales have trended over time,
 * Window Functions
 * CTE
 * Group By, Order By, and Aggregations
+
+## Key Insights
