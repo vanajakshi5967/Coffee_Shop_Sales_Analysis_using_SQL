@@ -31,3 +31,17 @@ The analysis majorly focuses on how Maven Roasters sales have trended over time,
 5. Top 10 Products by Sales
 6. Sales Analysis by days
 7. Sales Analysis by hours
+
+## Steps I followed
+1. Data Cleaning
+2. Data Standardization
+3. Feature Engineering
+4. Data Analysis
+
+## Concepts I Used
+* DDL (Data Definition Language) Commands 
+* SQL Basics 
+* Joins
+* Window Functions
+* CTE
+* Group By, Order By, and Aggregations
